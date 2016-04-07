@@ -86,7 +86,7 @@ source $ZSH/oh-my-zsh.sh
 export NVM_DIR=~/.nvm
 . $(brew --prefix nvm)/nvm.sh
 
-export HOMEBREW_GITHUB_API_TOKEN=90c1b76c707aade7da0cfa421bffdc8e89516d45
+export HOMEBREW_GITHUB_API_TOKEN=test
 export DEFAULT_USER=cjones
 
 alias ldd="otool -L"
